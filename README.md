@@ -1,7 +1,7 @@
 
 
 
- *Computational social science for better policy*
+ *Computational social science for better public policy*
  
 I lead teams in the delivery of complex analytical, computational, and public policy projects. To do so I combine data science, economics, and leadership skills, practised through policy-making across the United Kingdom and in developing countries.
 
